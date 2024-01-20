@@ -1,7 +1,7 @@
 # ProjectEducate
 This is a prototype website developed to explore what free and open education could look like.
 
-The semi-interactable prototype design (developed in Figma): https://www.figma.com/proto/jo3Ci1IeE236HXsMWcER4p/ProjectEducate?node-id=1-2&starting-point-node-id=1%3A2
+The semi-interactable prototype design (developed in Figma): [https://www.figma.com/proto/jo3Ci1IeE236HXsMWcER4p/ProjectEducate?node-id=1-2&starting-point-node-id=1%3A2](https://www.figma.com/proto/jo3Ci1IeE236HXsMWcER4p/ProjectEducate?type=design&node-id=73-556&t=SktPfFAkz2rBZS72-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design)
 
 ## Pages
 ### Home
@@ -30,7 +30,8 @@ The semi-interactable prototype design (developed in Figma): https://www.figma.c
 ![image](https://github.com/leojgrant/ProjectEducate/assets/66557864/df907df0-7be4-42a3-8899-4e60516e5eae)
 ![image](https://github.com/leojgrant/ProjectEducate/assets/66557864/7b4b727d-578f-4466-947f-8f5641c91ca7)
 ![image](https://github.com/leojgrant/ProjectEducate/assets/66557864/dadc2db6-4b0c-4740-bbb3-c26090ec89cc)
-![image](https://github.com/leojgrant/ProjectEducate/assets/66557864/c66644f6-b49c-4689-94f4-dc1bcb88b958)
+![image](https://github.com/leojgrant/ProjectEducate/assets/66557864/7d879999-9288-483e-ad62-c362f9109b39)
+![image](https://github.com/leojgrant/ProjectEducate/assets/66557864/a75e904d-0cab-4757-ae1e-ce8571fb2ec7)
 ![image](https://github.com/leojgrant/ProjectEducate/assets/66557864/6ffa205c-3ae0-42d3-a800-c5203a2e902b)
 ![image](https://github.com/leojgrant/ProjectEducate/assets/66557864/9d79f967-709b-4df1-bc01-59c8df450710)
 ![image](https://github.com/leojgrant/ProjectEducate/assets/66557864/88c567ff-8463-4e6b-8ac1-9cbe329171cd)
